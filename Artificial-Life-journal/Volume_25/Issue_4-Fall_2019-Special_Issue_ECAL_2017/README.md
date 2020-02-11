@@ -2,6 +2,17 @@
 Issue Page:  
 https://www.mitpressjournals.org/toc/artl/25/4
 
+## Editorial  
+### Introduction to the ECAL 2017 Special Issue  
+Carole Knibbe, Guillaume Beslon, and Dusan Misevic  
+Artificial Life Fall 2019, Vol. 25, No. 4, pp. 313–314  
+
+Open access link:  
+HAL-Inria  
+https://hal.inria.fr/hal-02428658/document  
+
+<br>
+
 ## Articles  
 ### Can Signal Delay be Functional? Including Delay in Evolved Robot Controllers  
 Matthew Egbert, Andrew Keane, Claire Postlethwaite, and Nelson Wong  
